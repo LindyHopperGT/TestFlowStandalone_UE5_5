@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B227F3A6-42BE-D8F5-7ACA-7FA97EC78ED1}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FlowStandalone",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
